@@ -8,6 +8,6 @@ import com.vaadin.flow.router.Route;
 public class StartView extends VerticalLayout {
 
     public StartView() {
-        add(new H1("Hallo, Welt!"));
+        add(new H1("HOI VOM RASPBERRY POI"));
     }
 }
